@@ -3,9 +3,7 @@
         <title>Response Page</title>
     </head>
     <body>
-        <?php
-            echo "<p>Responses</p>";
-        ?>
+        <h2>Registration Page</h2>
         <a href="Register.php"> Click here to Register
 		<form action="register.php" method="POST">
            Enter First_name: <input type="text" 
